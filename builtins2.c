@@ -1,20 +1,3 @@
-
-lijsamuael
-/
-monty
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-monty/builtins2.c
-@Lemlem-yo
-Lemlem-yo builtins2
- 2 contributors
-201 lines (187 sloc)  3.25 KB
 #include "monty.h"
 
 /**
